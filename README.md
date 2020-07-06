@@ -10,7 +10,7 @@ The purpose of this assignment was to get data points from the dataset that coul
 What challenges or difficulties did you encounter? If none, then briefly explain what challenges or difficulties may be encountered and how to avoid them using technical analysis.
 Explain how you overcame any challenges or difficulties, and include what technical analysis you use to overcome the challenges or difficulties.
 ## Answer Two
-There were a few difficulties I ran into. Inititally was creating many diffirent kinds of data frames. Another one was merging data frames together. Finally, getting all the pieces together correctly to make the multi-line chart. This challenge was certainly a challenge, but I learned things from it.
+There were a few difficulties I ran into. Inititally was creating many diffirent kinds of data frames. Another one was merging data frames together. Finally, getting all the pieces together correctly to make the multi-line chart. 
 ## Prompt Three
 Based on the data from the different city types, what recommendations would you give the CEO for addressing any disparities among the city types?
 Provide two additional analyses you could do to gain more insight into the data, like using other datasets.
